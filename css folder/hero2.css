@@ -1,0 +1,42 @@
+.hero2 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* border: 2px solid rgb(0, 165, 69); */
+    color: rgb(255, 255, 255);
+    /* background-color: #26251E; */
+    margin-top: 80px;
+}
+
+.hero2-img{
+    padding: 20px;
+   border: 2px  solid rgba(105, 101, 101, 0.8);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 80px;
+}
+
+#head2txt-one{
+    font-size: 29px;
+     /* padding: 10px; */
+}
+
+#head2txt-two{
+    font-size: 26px;
+    color: rgb(128, 128, 128,0.8);
+     /* padding: 10px; */
+}
+
+
+.red-txt-box{
+    margin-top: 20px;
+    color: rgb(228, 113, 5);
+    font-size: 20px;
+}
+
+/* #red-txt{
+    
+} */
